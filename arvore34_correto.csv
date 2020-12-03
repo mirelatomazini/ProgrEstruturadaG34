@@ -1,5 +1,5 @@
 "ID;Pergunta;A;Nó A;B;Nó B"
-"1;A quantidade de quartos na casa é menor que 3?;SIM;2;NÃO;3"
+"1;A quantidade de quartos na casa é menor ou igual a 3?;SIM;2;NÃO;3"
 "2;A nota da casa é menor que 8?;SIM;4;NÃO;5"
 "3;A nota da casa é menor que 8?;SIM;6;NÃO;7"
 "4;A casa possui menos que 2 andares?;SIM;8;NÃO;9"

@@ -1,0 +1,56 @@
+﻿ID;Pergunta;A;Nó A;B;Nó B
+1;A quantidade de quartos na casa é menor ou igual a 3?;SIM;2;NÃO;3
+2;A nota da casa é menor que 8?;SIM;4;NÃO;5
+3;A nota da casa é menor que 8?;SIM;6;NÃO;7
+4;A casa possui menos que 2 andares?;SIM;8;NÃO;9
+5;A área do lote (15) é menor que 3495?;SIM;10;NÃO;11
+6;A quantidade de banheiros é menor que 2?;SIM;12;NÃO;13
+7;A área útil (15) é menor que 1525?;SIM;14;NÃO;15
+8;NÓ FOLHA;Preço da casa abaixo da média;;;
+9;A condição é menor que 4?;SIM;16;NÃO;17
+10;A condição é menor que 4?;SIM;18;NÃO;19
+11;A área útil (15) é menor que 1525?;SIM;20;NÃO;21
+12;NÓ FOLHA;Preço da casa abaixo da média;;;
+13;A condição é menor que 4?;SIM;22;NÃO;23
+14;A casa possui menos que 2 andares?;SIM;24;NÃO;25
+15;A quantidade de banheiros é menor que 2?;SIM;26;NÃO;27
+16;NÓ FOLHA;Preço da casa abaixo da média;;;
+17;A área útil (15) é menor que 1525?;SIM;28;NÃO;29
+18;NÓ FOLHA;Preço da casa abaixo da média;;;
+19;A casa possui menos que 2 andares?;SIM;30;NÃO;31
+20;A condição é menor que 4?;SIM;32;NÃO;33
+21;A casa possui menos que 2 andares?;SIM;34;NÃO;35
+22;NÓ FOLHA;Preço da casa abaixo da média;;;
+23;A área útil (15) é menor que 1525?;SIM;36;NÃO;37
+24;NÓ FOLHA;Preço da casa abaixo da média;;;
+25;A área do lote (15) é menor que 3495?;SIM;38;NÃO;39
+26;A condição é menor que 4?;SIM;40;NÃO;41
+27;NÓ FOLHA;Preço da casa acima da média;;;
+28;NÓ FOLHA;Preço da casa abaixo da média;;;
+29;NÓ FOLHA;Preço da casa acima da média;;;
+30;NÓ FOLHA;Preço da casa abaixo da média;;;
+31;A quantidade de banheiros é menor que 2?;SIM;42;NÃO;43
+32;NÓ FOLHA;Preço da casa abaixo da média;;;
+33;A casa possui menos que 2 andares?;SIM;44;NÃO;45
+34;A condição é menor que 4?;SIM;46;NÃO;47
+35;A quantidade de banheiros é menor que 2?;SIM;48;NÃO;49
+36;NÓ FOLHA;Preço da casa abaixo da média;;;
+37;A área do lote (15) é menor que 3495?;SIM;50;NÃO;51
+38;NÓ FOLHA;Preço da casa abaixo da média;;;
+39;NÓ FOLHA;Preço da casa acima da média;;;
+40;A casa possui menos que 2 andares?;SIM;52;NÃO;53
+41;NÓ FOLHA;Preço da casa acima da média;;;
+42;NÓ FOLHA;Preço da casa abaixo da média;;;
+43;NÓ FOLHA;Preço da casa acima da média;;;
+44;NÓ FOLHA;Preço da casa abaixo da média;;;
+45;NÓ FOLHA;Preço da casa acima da média;;;
+46;NÓ FOLHA;Preço da casa abaixo da média;;;
+47;NÓ FOLHA;Preço da casa acima da média;;;
+48;A condição é menor que 4?;SIM;54;NÃO;55
+49;NÓ FOLHA;Preço da casa acima da média;;;
+50;NÓ FOLHA;Preço da casa abaixo da média;;;
+51;NÓ FOLHA;Preço da casa acima da média;;;
+52;NÓ FOLHA;Preço da casa abaixo da média;;;
+53;NÓ FOLHA;Preço da casa acima da média;;;
+54;NÓ FOLHA;Preço da casa abaixo da média;;;
+55;NÓ FOLHA;Preço da casa acima da média;;;
